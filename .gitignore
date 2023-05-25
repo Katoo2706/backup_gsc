@@ -2,4 +2,5 @@
 **/.env
 **/test.sh
 backup/temp/*
+backup/temp_restore/*
 log.txt

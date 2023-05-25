@@ -9,6 +9,10 @@ A brief description of the project.
 ## Run
 > bash start.sh
 
+### Restore backup file
+`Restore last file pushed to GSC in log.txt`
+
+> bash backup/restore.sh
 
 ### Execution method
 - Create .env file with environment variable
